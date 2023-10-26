@@ -1,0 +1,67 @@
+---
+title: "Go fastR: High Performance Computing with R"
+# subtitle: "Next Generation Basel Biometric Society (BBS) Training Day"
+engine: knitr
+---
+
+
+**When**: Wednesday, 6^th^ of December
+
+**Where**: Roche, Basel
+
+**How to register**: [coming soon - see the BBS Basel webpage](https://baselbiometrics.github.io/home/docs/events_upcoming.html)!
+
+
+## Description {#description}
+Have you ever struggled with slow R code? Have you ever wondered how to make it go fastR and fully leverage the power of high performance compute (HPC) clusters? If yes, this training is for you! You will learn how to profile, optimize, and parallelize your code on your local machine, as well as how to parallelize it on HPC clusters. While we will provide example code for commonly-performed activities for trial design, such as simulation studies, bootstrapping and cross-validation, to get the most out of this training, we strongly encourage you to *bring your own (non-confidential) code to optimize on a Posit-provided HPC in the cloud* during the second half of the training. You will also get to pick our brains on how to best optimize your code. 
+ 
+### Details {#details}
+
+The first half of the training is classroom-based with interactive exercises hosted on Posit Workbench connected to a cloud-based HPC cluster that participants will get access to. We cover the following topics:
+
+Identifying bottlenecks in your R code, debugging, and optimizing
+
+* Debugging R code & checking correctness
+* Profiling R code to identify bottlenecks
+* Optimizing bottlenecks: packages, vectorization, memory allocation
+
+R parallelization on HPC clusters
+
+* Amdahl’s law and limits of achievable speed up
+P* arallelizing work onto compute clusters via clusterMQ and batchtools
+* Consistently loading code, packages, .libPaths() and options() on R workers
+* Uncorrelated random number generation for parallel R code
+* Debugging R code in batchtools and clusterMQ jobs
+
+For the second half, we highly encourage you to bring your own code and attempt to optimize and parallelize it with the help of the course instructors. You can also try some of the provided examples and explore optimization and parallelization on the provided HPC cluster with those.
+We look forward to your participation!
+
+
+## News {#news}
+
+<!-- - Subriscribe to our mailing list to receive news (you can also unsubscribe here) -->
+
+- [20/August/2023] Website is live!
+
+## Facilitators {#people}
+
+<!-- create a circle crop of pictures using https://github.com/doehm/cropcircles  -->
+
+![](img/michaelmayer.jpg){style="float:left;padding: 0 10px 0 0;" fig-alt="Headshot of Michael Mayer" width="150"}
+
+[**Michael Mayer**](https://www.linkedin.com/in/drmichaelmayer/) is a dedicated scientist with a strong background in IT working at Posit. He specializes in bridging the realms of science and technology, including scientific and technical computing and with a particular focus on their application within the pharmaceutical industry. He has deep expertise in High-Performance Computing (HPC) clusters (both infrastructure and software ecosystems), cloud platforms such as AWS and Azure, scientific software development, DevOps, CI/CD, Big Data, Machine Learning, and the automation of IT processes. He is also well-versed in performance tuning such as employing parallelization and vectorization techniques, as well as scaling-up strategies.
+
+[`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/drmichaelmayer/)
+[`r fontawesome::fa("github")`](https://github.com/michaelmayer2)
+
+<br clear="both"> <br>
+
+![](img/lukas.png){style="float:left;padding: 0 10px 0 0;" fig-alt="Headshot of Lukas Widmer" width="140"}
+
+[**Lukas A. Widmer**](https://www.linkedin.com/in/lukas-widmer-37800b9b/) is an Associate Directory Statistical Consultant in the Advanced Methodology and Data Science group at Novartis. He provides advice and is engaged in developing and implementing innovative statistical methods for clinical projects, develops [trainings for statisticians and data scientists](https://cen2023.github.io/home/courses.html#Go_fastR:_High_Performance_Computing_with_R), and collaborates with external research groups. Lukas has diverse research interests, including [safety modelling in dose escalation and Bayesian statistics](https://cran.r-project.org/package=OncoBayes2), [re-use of data through analysis results data modeling](https://www.nature.com/articles/s41597-022-01789-2), genetic engineering, [high performance computing](https://cen2023.github.io/home/courses.html#Go_fastR:_High_Performance_Computing_with_R) as well as statistical software engineering. Before joining Novartis, he studied Computer Science as well as Computational Biology and Bioinformatics at ETH Zürich in Switzerland and UC Santa Barbara in the US. He also holds a Doctor of Science degree from the Department of Biosystems, Science and Engineering of ETH Zürich. 
+
+[`r fontawesome::fa("linkedin")`](https://www.linkedin.com/in/lukas-widmer-37800b9b/)
+[`r fontawesome::fa("github")`](https://github.com/luwidmer)
+
+<br> <br>
+

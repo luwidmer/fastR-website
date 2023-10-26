@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: docs
+
+website: 
+  page-navigation: true
+  title: "Go fastR: High Performance Computing with R" 
+  site-url: https://TODO.github.io/fastR-website/
+  repo-url: https://github.com/TODO/fastR-website
+  repo-actions: [edit, issue]
+  
+  page-footer:
+    left: "This page is built with ❤️ and [Quarto](https://quarto.org/). Inspired by the [ARDM Workshop](https://joanacmbarros.github.io/ardm-website/)."
+    
+  sidebar:
+    logo: "img/logo.png"
+    pinned: true
+    align: center
+    tools: 
+      - icon: globe
+        href: https://joanacmbarros.github.io/ardm-website/
+        text: "Website repository"
+      - icon: book
+        href: https://www.nature.com/articles/s41597-022-01789-2
+        text: "Why we should respect analysis results as data"
+      - icon: github
+        href: https://github.com/joanacmbarros/analysis-results-data-model
+        text: "Analysis Results Data Model"
+  
+    style: "docked"
+    search: true
+    collapse-level: 3
+    border: true
+    
+    contents:
+      - file: index.qmd
+        text: "Welcome"
+      - file: agenda.qmd
+        text: "Agenda"
+      - href: materials.qmd
+        text: "Materials"
+
+format:
+  html:
+    theme: yeti
+    css: styles.css
+    toc: true
+
+
