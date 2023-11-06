@@ -34,7 +34,7 @@ P* arallelizing work onto compute clusters via clusterMQ and batchtools
 * Debugging R code in batchtools and clusterMQ jobs
 
 For the second half, we highly encourage you to bring your own code and attempt to optimize and parallelize it with the help of the course instructors. You can also try some of the provided examples and explore optimization and parallelization on the provided HPC cluster with those.
-We look forward to your participation!
+We look forward to your participation! 
 
 
 ## News {#news}
