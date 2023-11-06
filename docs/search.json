@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "agenda.html",
-    "href": "agenda.html",
-    "title": "Agenda",
-    "section": "",
-    "text": "TBA"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Go fastR: High Performance Computing with R",
     "section": "",
-    "text": "When: Wednesday, 6th of December\nWhere: Roche, Basel\nHow to register: coming soon - see the BBS Basel webpage!"
+    "text": "When: Wednesday, 6th of December\nWhere: Roche, Basel\nHow to register: See the BBS Basel webpage!"
   },
   {
     "objectID": "index.html#description",
@@ -25,7 +18,7 @@
     "href": "index.html#news",
     "title": "Go fastR: High Performance Computing with R",
     "section": "News",
-    "text": "News\n\n\n[20/August/2023] Website is live!"
+    "text": "News\n\n\n[3/November/2023] Website and registration are live!"
   },
   {
     "objectID": "index.html#people",
@@ -35,10 +28,38 @@
     "text": "Facilitators\n\n\nMichael Mayer is a dedicated scientist with a strong background in IT working at Posit. He specializes in bridging the realms of science and technology, including scientific and technical computing and with a particular focus on their application within the pharmaceutical industry. He has deep expertise in High-Performance Computing (HPC) clusters (both infrastructure and software ecosystems), cloud platforms such as AWS and Azure, scientific software development, DevOps, CI/CD, Big Data, Machine Learning, and the automation of IT processes. He is also well-versed in performance tuning such as employing parallelization and vectorization techniques, as well as scaling-up strategies.\n \n \n\nLukas A. Widmer is an Associate Directory Statistical Consultant in the Advanced Methodology and Data Science group at Novartis. He provides advice and is engaged in developing and implementing innovative statistical methods for clinical projects, develops trainings for statisticians and data scientists, and collaborates with external research groups. Lukas has diverse research interests, including safety modelling in dose escalation and Bayesian statistics, re-use of data through analysis results data modeling, genetic engineering, high performance computing as well as statistical software engineering. Before joining Novartis, he studied Computer Science as well as Computational Biology and Bioinformatics at ETH Zürich in Switzerland and UC Santa Barbara in the US. He also holds a Doctor of Science degree from the Department of Biosystems, Science and Engineering of ETH Zürich."
   },
   {
+    "objectID": "agenda.html",
+    "href": "agenda.html",
+    "title": "Agenda",
+    "section": "",
+    "text": "Wednesday, December 6th:\n\nMorning session: 08:30 - 12:30 CET\nAfternoon session: 13:30 - 17:30 CET"
+  },
+  {
+    "objectID": "agenda.html#agenda",
+    "href": "agenda.html#agenda",
+    "title": "Agenda",
+    "section": "",
+    "text": "Wednesday, December 6th:\n\nMorning session: 08:30 - 12:30 CET\nAfternoon session: 13:30 - 17:30 CET"
+  },
+  {
     "objectID": "materials.html",
     "href": "materials.html",
-    "title": "Past Course Materials",
+    "title": "Course Materials",
     "section": "",
-    "text": "TBA"
+    "text": "TBD"
+  },
+  {
+    "objectID": "materials.html#basel-biometric-society-bbs-next-generation-training-day-6th-of-december-2023",
+    "href": "materials.html#basel-biometric-society-bbs-next-generation-training-day-6th-of-december-2023",
+    "title": "Course Materials",
+    "section": "",
+    "text": "TBD"
+  },
+  {
+    "objectID": "materials.html#cen-2023-3rd-of-september-2023",
+    "href": "materials.html#cen-2023-3rd-of-september-2023",
+    "title": "Course Materials",
+    "section": "CEN 2023, 3rd of September 2023",
+    "text": "CEN 2023, 3rd of September 2023\n\nSlides, licensed under CC BY 4.0\nCode, licensed under MIT License"
   }
 ]

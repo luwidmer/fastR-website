@@ -5,8 +5,8 @@ project:
 website: 
   page-navigation: true
   title: "Go fastR: High Performance Computing with R" 
-  site-url: https://TODO.github.io/fastR-website/
-  repo-url: https://github.com/TODO/fastR-website
+  site-url: https://luwidmer.github.io/fastR-website/
+  repo-url: https://github.com/luwidmer/fastR-website
   repo-actions: [edit, issue]
   
   page-footer:
@@ -18,14 +18,11 @@ website:
     align: center
     tools: 
       - icon: globe
-        href: https://joanacmbarros.github.io/ardm-website/
-        text: "Website repository"
-      - icon: book
-        href: https://www.nature.com/articles/s41597-022-01789-2
-        text: "Why we should respect analysis results as data"
+        href: https://luwidmer.github.io/fastR-website/
+        text: "fastR Course Website"
       - icon: github
-        href: https://github.com/joanacmbarros/analysis-results-data-model
-        text: "Analysis Results Data Model"
+        href: https://github.com/luwidmer/fastR-website
+        text: "fastR Course GitHub Repository"
   
     style: "docked"
     search: true
@@ -39,6 +36,8 @@ website:
         text: "Agenda"
       - href: materials.qmd
         text: "Materials"
+      - href: further-links.qmd
+        text: "Further links"
 
 format:
   html:

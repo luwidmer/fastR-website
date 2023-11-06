@@ -1,1 +1,1 @@
-Sitemap: https://TODO.github.io/fastR-website/sitemap.xml
+Sitemap: https://luwidmer.github.io/fastR-website/sitemap.xml

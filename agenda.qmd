@@ -3,4 +3,12 @@ title: "Agenda"
 engine: knitr
 ---
 
-TBA
+## Agenda {#agenda}
+
+### Basel Biometric Society (BBS) Next-Generation Training Day
+
+Wednesday, December 6<sup>th</sup>:
+
+* Morning session: 08:30 - 12:30 CET
+* Afternoon session: 13:30 - 17:30 CET
+
