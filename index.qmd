@@ -9,7 +9,7 @@ engine: knitr
 
 **Where**: Roche, Basel
 
-**How to register**: [See the BBS Basel webpage](https://baselbiometrics.github.io/home/docs/events_upcoming.html)!
+**How to register**: [See the Basel Biometric Society (BBS) webpage](https://baselbiometrics.github.io/home/docs/events_upcoming.html)!
 
 
 ## Description {#description}
