@@ -28,8 +28,8 @@ Identifying bottlenecks in your R code, debugging, and optimizing
 R parallelization on HPC clusters
 
 * Amdahl’s law and limits of achievable speed up
-P* arallelizing work onto compute clusters via clusterMQ and batchtools
-* Consistently loading code, packages, .libPaths() and options() on R workers
+* Parallelizing work onto compute clusters via clusterMQ and batchtools
+* Consistently loading code, packages, `.libPaths()` and `options()` on R workers
 * Uncorrelated random number generation for parallel R code
 * Debugging R code in batchtools and clusterMQ jobs
 
