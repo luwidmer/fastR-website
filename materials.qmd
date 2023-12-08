@@ -3,11 +3,12 @@ title: "Course Materials"
 engine: knitr
 ---
 
+# Past courses
+
 ## Basel Biometric Society (BBS) Next-Generation Training Day, <br>6<sup>th</sup> of December 2023
 
-TBD
-
-# Past courses
+* [Slides](./materials/2023-12-06 BBS Next Gen/slides/slides.pdf), licensed under [CC BY 4.0](./materials/2023-12-06 BBS Next Gen/slides/LICENSE)
+* [Code](https://github.com/luwidmer/fastR-website/tree/master/materials/2023-12-06%20BBS%20Next%20Gen/code), licensed under [MIT License](./materials/2023-12-06 BBS Next Gen/code/LICENSE)
 
 ## CEN 2023, 3<sup>rd</sup> of September 2023
 

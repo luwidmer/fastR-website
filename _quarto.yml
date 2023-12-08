@@ -11,6 +11,7 @@ website:
   site-url: https://luwidmer.github.io/fastR-website/
   repo-url: https://github.com/luwidmer/fastR-website
   repo-actions: [edit, issue]
+  repo-branch: master
   
   page-footer:
     left: "This page is built with ❤️ and [Quarto](https://quarto.org/). Inspired by the [ARDM Workshop](https://joanacmbarros.github.io/ardm-website/)."

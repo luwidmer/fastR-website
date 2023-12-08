@@ -7,9 +7,9 @@ engine: knitr
 
 **When**: Wednesday, 6^th^ of December
 
-**Where**: Roche, Basel
+**Where**: Basel Biometric Society Next Gen Training Day, Roche, Basel
 
-**How to register**: [See the Basel Biometric Society (BBS) webpage](https://baselbiometrics.github.io/home/docs/events_upcoming.html)!
+**How to register**: Course held, the [materials](materials.qmd) are now available. 
 
 
 ## Description {#description}
@@ -39,8 +39,7 @@ We look forward to your participation!
 
 ## News {#news}
 
-<!-- - Subriscribe to our mailing list to receive news (you can also unsubscribe here) -->
-
+- [6/December/2023] Basel Biometric Society Next Gen Training Day Course
 - [3/November/2023] Website and registration are live!
 
 ## Facilitators {#people}
